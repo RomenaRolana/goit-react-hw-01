@@ -1,0 +1,26 @@
+.item {
+  flex-basis: calc(100% / 5);
+  padding: 16px;
+  text-align: center;
+  border: 1px solid var(--dark-grey);
+  border-radius: 8px;
+}
+.img {
+  margin: 0 auto;
+  width: 48px;
+  margin-bottom: 16px;
+}
+.friendName {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.status {
+}
+
+.isOnline {
+  color: var(--green);
+}
+.isOffline {
+  color: var(--red);
+}

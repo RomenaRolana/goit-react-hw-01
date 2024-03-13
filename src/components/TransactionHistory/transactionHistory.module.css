@@ -1,0 +1,7 @@
+.table {
+  border-collapse: collapse;
+  text-align: center;
+  box-sizing: border-box;
+  width: 500px;
+  margin: 16px 0;
+}

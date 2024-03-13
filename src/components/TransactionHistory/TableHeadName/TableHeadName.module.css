@@ -1,0 +1,7 @@
+.th {
+  background-color: var(--dark-grey);
+  color: var(--light-grey);
+  padding: 8px 0;
+  width: calc((100% / 3));
+  border: 1px solid var(--dark-grey);
+}

@@ -1,0 +1,14 @@
+.item {
+  padding: 8px;
+  flex-basis: calc(((100% / 3)));
+  background-color: var(--middle-grey);
+}
+.item:not(:last-child) {
+  border-right: 1px solid var(--dark-grey);
+}
+.title {
+  display: block;
+}
+.prop {
+  font-weight: bold;
+}

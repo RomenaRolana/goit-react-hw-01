@@ -1,0 +1,22 @@
+.img {
+  width: 150px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-color: var(--dark-grey);
+  margin-bottom: 8px;
+}
+.userName {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.tag {
+  margin-bottom: 8px;
+}
+.location {
+}
+
+.wrapper {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--dark-grey);
+}
